@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "So you do speak..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah... I do but..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "I'm usually nervous around new faces....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But... You look like three other boys I've seen recently..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I think they went by Negative or something like that..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You don't happen to be associated with them are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That name doesn't ring any bells..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And for some reason, they all share a name with me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Which is strange because Boyfriend isn't a name it's an occupation."
+		},
+		{
+			"speed": 0.095,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait a minute..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I think we're related."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I'm also named Boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "If you have the same name but aren't part of that group, where did you come from?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't know but it's really strange."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait I think I remember something about this place..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You do?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, I think my father said something about a prototype universe and I was born from here or something."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait that explains why I haven't seen that girl around recently."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I didn't steal your girl by accident did I? If so i'm sorry about that..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No no no it's fine. We weren't dating, we were just hanging out that night with her dad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Or step-dad? I don't know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wanna just sing together right now? this dialogue sequence is getting too long."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah sure, why not?"
+		}
+	]
+}
