@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Whe... where are we?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I don't know...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "It looks like my dad's stage but... dried out.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "And there's blank paper on the walls for some reason...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "What kind of dumbass has paper on their fucking walls?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Man, people and their obsessions these days.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait...",
+			"boxState": "normal",
+			"speed": 0.12,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "WHY ARE BOTH OF US BLUE?!?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "What the hell? You're right! I really hope my spare nuts didn't bust.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Why do I hear footsteps coming from behind the stage?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Chill, babe. It's probably your dad. He can probably tell us where we are.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Uh... wait...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Who's that?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "stand",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "bf-proto-dialogue"
+		},
+		{
+			"expression": "confused",
+			"text": "What the fuck? Is that a child? what are you doing here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "stand",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "bf-proto-dialogue"
+		},
+		{
+			"expression": "confused",
+			"text": "Hello?",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "stand",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "bf-proto-dialogue"
+		},
+		{
+			"expression": "confused",
+			"text": "I guess you don't like speaking...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Babe, play a song. We might get something out of they're mouth.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Got it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}
