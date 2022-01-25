@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow... I... never felt so... complete."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Welcome to your new home, bud."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You'll be famous in no time if i say that you're my brother or something."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But uh... how would my gagillion brothers and sisters feel about that.....?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eh whatever. Doesn't matter. I have a fucking rat as a brother why should they care?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait... You're also related to a mouse?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Makes sense I guess since we're pretty much the same."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hey don't get too cock-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "meme",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you looking at me li-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "meme",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Sounds like a cock joke to me, brah."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait how do you know about Tankman's\\nexistance? You were pretty much born just now."
+		},
+		{
+			"speed": 0.13,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ANYWAYS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Just make sure you don't get too much\\nrecognition though."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Once you get to that point in your life where you feel that all your personal space is lost in this community..."
+		},
+		{
+			"speed": 0.3,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "YOU CAN'T RUN... EVER!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll keep that in mind."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also before I start my journey, do you think we can rap together one more time?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-color-dialogue",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Bet you won't beat me this time, blueballs."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "OH HO HO You're on!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hit it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright bae! Let's do this!"
+		}
+	]
+}
