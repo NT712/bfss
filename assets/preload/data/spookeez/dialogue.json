@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You're a quick one, aren't you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, I practice now and again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Since that's the only thing I can do while in this unfinished state..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What do you mean unfinished? I thought you worked just fi- I mean what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Whoever gets landed in this hellhole can't leave..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Everytime I practice, I think of somebody at least having the ability to leave by\\nteleportation."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I hear those negative people talk about how they can teleport but I don't know how they do it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Weeeeeeeeelllllllllllll..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're in luck! I can teleport people since i'm a demon like my dad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "WAIT REALLY?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, we can just take you with us if you want."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh my god now I can live a new life!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wanna sing one more song before we go?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-proto-dialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah! Let's do this!"
+		}
+	]
+}
